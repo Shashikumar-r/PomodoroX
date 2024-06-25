@@ -39,7 +39,7 @@ PomodoroX is a Python 🐍 project utilizing the Turtle 🐢 module to create a 
 5. **Customization:**
    - You can modify the timings in the code (`WORK_MINUTES` and `BREAK_MINUTES`) if desired.
 
-## Example
+## Result
 ![ProvidivityPomodoro Screenshot](https://github.com/Shashikumar-r/PomodoroX/blob/main/pomodoro.PNG)
 
 ## Credits
